@@ -1,4 +1,4 @@
 # Computer Graphics
 My assignments for CG course.
 
-*Tutorials*: https://learnopengl.com/
+Learnt from Tutorials at https://learnopengl.com/.
