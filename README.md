@@ -1,2 +1,2 @@
-# Computer_Graphics
+# Computer Graphics
 My assignments for CG course.
